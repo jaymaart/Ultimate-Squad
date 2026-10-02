@@ -24,6 +24,13 @@ The app is not code-signed yet, so your system will warn you the first time.
 - **macOS:** open the dmg and drag the app to Applications. If macOS says it cannot verify the app, right-click it, choose **Open**, then **Open** again.
 - **Linux:** make the file executable (`chmod +x Ultimate-Squad-linux.AppImage`) and run it.
 
+## Updates
+
+The game itself is always the newest version, because the app opens the live site. When the app
+itself has a new version, an **Update** button appears in the title bar. Click it to install and
+restart. Click the version number in the title bar to check by hand. If an update ever fails, the
+latest installers are always on the [Releases](https://github.com/jaymaart/Ultimate-Squad/releases) page.
+
 ## Links
 
 - Play in the browser: https://ultimatesquad.xyz
